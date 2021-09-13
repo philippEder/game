@@ -1,0 +1,14 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "first phaser game",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Philipp Eder",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "^3.55.2"
+  }
+}
